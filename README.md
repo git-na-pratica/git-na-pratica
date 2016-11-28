@@ -2,7 +2,7 @@
 
 Manual git em português produzido coletivamente.
 
-O Original Ofical desse manual pode ser encontrado em https://git-na-pratica.gitbooks.io/git-na-pratica/content/
+O Original Oficial desse manual pode ser encontrado em https://git-na-pratica.gitbooks.io/git-na-pratica/content/
 
 Apostila Versão: {{ book.Version }}
 
@@ -88,3 +88,8 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
         60.01 Personalizando o GITHub
             60.01.01 Criando HomePage para seu Projeto e seu Profile no GITHub
             60.01.02 Criando um Wiki para seu Projeto no GITHub
+    70. Segurança, Autenticação e Autorização no GIT
+        70.01 URLs e sua relação com a segurança
+        70.02 Autorização nos servidores
+        70.03 Criando e usando um par de chaves de autenticação
+        70.03 Assinando e Verificando suas tags e commits 
