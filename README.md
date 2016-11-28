@@ -25,20 +25,20 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 ## Colaboradores (em ordem alfabética)
 
 | Nome | Blog/Site | Twitter |
-| -- | -- | -- |
-| Bruno Barros | http://bkether.blogspot.com/ | http://www.twitter.com/bkether | 
-| Carlos Delfino | http://www.carlosdelfino.eti.br | http://www.twitter.com/fullsrv | 
-| Emerson Vinicius | http:// | http://www.twitter.com/emersonvinicius |
-| Erich Kist | http:// | http://www.twitter.com/erichkist | 
-| Fernando Kosh | http://fernandokosh.blogspot.com/ | http://www.twitter.com/fernandokosh | 
-| Fernando Ribeiro | http://www.ferbass.com/ | http://www.twitter.com/fer_bass | 
-| Guilherme Ceolin< | http:// | http://www.twitter.com/guiceolin | 
-| Lucas Caton | http://blog.lucascaton.com.br/ | http://www.twitter.com/lucascaton | 
-| Luciano Sousa | http://lucianosousa.net | http://www.twitter.com/lucianosousa | 
-| Marcelo Fontes Castellani | http://marcelocastellani.com/ | http://www.twitter.com/mfcastellani |
-| Marcus Sá | http://www.woompa.com.br/ | http://www.twitter.com/sa_vini |
+| --- | --- | :---: |
+| Bruno Barros | http://bkether.blogspot.com/ | [@bkether](http://www.twitter.com/bkether) | 
+| Carlos Delfino | http://www.carlosdelfino.eti.br | [@fullsrv](http://www.twitter.com/fullsrv) | 
+| Emerson Vinicius | http:// | [@emersonvinicius](http://www.twitter.com/emersonvinicius) |
+| Erich Kist | http:// | [@erichkist](http://www.twitter.com/erichkist) | 
+| Fernando Kosh | http://fernandokosh.blogspot.com/ | [@fernandokosh](http://www.twitter.com/fernandokosh) | 
+| Fernando Ribeiro | http://www.ferbass.com/ | [@fer_bass](http://www.twitter.com/fer_bass) | 
+| Guilherme Ceolin< | http:// | [@guiceolin](http://www.twitter.com/guiceolin) | 
+| Lucas Caton | http://blog.lucascaton.com.br/ | [@lucascatom](http://www.twitter.com/lucascaton) | 
+| Luciano Sousa | http://lucianosousa.net | [@lucianosouza](http://www.twitter.com/lucianosousa) | 
+| Marcelo Fontes Castellani | http://marcelocastellani.com/ | [@mfcastellani](http://www.twitter.com/mfcastellani) |
+| Marcus Sá | http://www.woompa.com.br/ | [@sa_vini](http://www.twitter.com/sa_vini) |
 | Roberta Soares< | http:// | http:// |
-| Rodolfo Luiz | http:// | http://www.twitter.com/rodolfols |
+| Rodolfo Luiz | http:// | [@rodolfols](http://www.twitter.com/rodolfols) |
 
 ## Tópicos que serão abordados
 

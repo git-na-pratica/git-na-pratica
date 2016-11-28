@@ -1,11 +1,11 @@
 {
     "language": "pt",
-    "structure": { 
+    "structure": {
         "glossary": "glossario.md",
         "summary": "sumario.md"
     },
     "plugins": [
-       "codeblock-disable-glossary",
+        "codeblock-disable-glossary",
         "anchors",
         "layout",
         "disqus",
@@ -15,11 +15,11 @@
         "image-captions",
         "gist",
         "mathjax",
-        "autocover",
         "indexes",
         "customtheme",
         "theme-api",
-        "theme-default"
+        "theme-default",
+        "comment"
     ],
     "pluginsConfig": {
         "layout": {
@@ -27,29 +27,13 @@
             "footerPath": "layouts/footer.html"
         },
         "disqus": {
-            "shortName": "introduoalinguagemdeprogramaoparaarduino",
+            "shortName": "gitnapratica",
             "useIdentifier": true
         },
         "image-captions": {
             "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
             "list_caption": "List image _BOOK_IMAGE_NUMBER_: _CAPTION_",
             "variable_name": "picturesList"
-        },
-        "autocover": {
-            "author": "Carlos Delfino - consultoria@carlosdelfino.eti.br - carlosdelfino.eti.br",
-            "font": {
-                "size": null,
-                "family": "Impact",
-                "color": "#FFF"
-            },
-            "template": "layouts/cover/default.svg",
-            "size": {
-                "w": 1800,
-                "h": 2360
-            },
-            "background": {
-                "color": "#09F"
-            }
         }
     },
     "variables": {
