@@ -33,7 +33,7 @@ Acho que é isso. Adicione seu nome na lista de colaboradores a seguir e mãos a
 | Fernando Kosh | http://fernandokosh.blogspot.com/ | [@fernandokosh](http://www.twitter.com/fernandokosh) | 
 | Fernando Ribeiro | http://www.ferbass.com/ | [@fer_bass](http://www.twitter.com/fer_bass) | 
 | Guilherme Ceolin< | http:// | [@guiceolin](http://www.twitter.com/guiceolin) | 
-| Lucas Caton | http://blog.lucascaton.com.br/ | [@lucascatom](http://www.twitter.com/lucascaton) | 
+| Lucas Caton | https://www.lucascaton.com.br/ | [@lucascaton](http://www.twitter.com/lucascaton) | 
 | Luciano Sousa | http://lucianosousa.net | [@lucianosouza](http://www.twitter.com/lucianosousa) | 
 | Marcelo Fontes Castellani | http://marcelocastellani.com/ | [@mfcastellani](http://www.twitter.com/mfcastellani) |
 | Marcus Sá | http://www.woompa.com.br/ | [@sa_vini](http://www.twitter.com/sa_vini) |
